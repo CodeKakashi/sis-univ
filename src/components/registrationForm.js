@@ -44,7 +44,7 @@ const RegistrationForm = () => {
   const [isDisabled, setIsDisabled] = useState(false);
   const sampleData = {
     nameTitle: "Miss",
-    nameLabel: "Sample Name",
+    nameLabel: "Sample Name Me",
     guardianTitle: "D/O",
     guardianNameLabel: "Sample Father Name",
     email: "haarish@sdev.in",
