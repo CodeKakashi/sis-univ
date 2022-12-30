@@ -1,4 +1,4 @@
-import { Image, Row, Col, Typography, Card } from "antd";
+import { Image, Typography, Card } from "antd";
 import submitImage from "./pro-slider-1.svg";
 
 const RegistrationFormPreview = () => {

@@ -274,7 +274,7 @@ const RegistrationForm = () => {
       </Form>
       {isDisabled  && (
         <Form.Item {...tailLayout}>
-          <Link to="/registerPreview">
+          <Link to="/educationalForm">
             <Button
               type="primary"
               size="20"
